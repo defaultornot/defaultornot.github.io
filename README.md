@@ -1,6 +1,6 @@
 # is.strong.e2e.crypto.default.or.not
 ---
-Does your mobile messaging app use strong end-to-end encryption by **default** when communicating with others?
+Does your mobile messaging app use strong end-to-end encryption by **default** when you talk to your friends?
 ---
 **Strong =**
 * Allows for key verification
